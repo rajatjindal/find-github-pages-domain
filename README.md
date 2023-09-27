@@ -1,0 +1,1 @@
+I lost track of where I created a domain for my GitHub pages. so wrote this quick tool to iterate over all repos and see which one is using the domain.
